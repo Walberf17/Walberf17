@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Walberf17
-- 👀 I’m interested in AI , Machine Learning
+- 👀 I’m interested in AI , Machine Learning , DataScience and Games!
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any Project
 - 📫 U can reach me on my email: walber17@gmail.com
